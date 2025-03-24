@@ -1,10 +1,35 @@
-.Head{}
+header { 
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.header2 { 
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.div1 { 
+    width: 100%;
+    height: 50%;
+    justify-content: center;
+}   
+.div{
 
+}
 
-.body{}
+.div1{
+}
 
+.div2{
+
+}
+
+body{ 
+    background-color: grey;
+    justify-content: center;
+    display: flex;
+}
 
 .box1{}
-
 
 .box2{}
